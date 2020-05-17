@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.pentaho.reporting.engine:classic-core:8.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/pentaho/reporting/engine/classic-core/8.0-SNAPSHOT/classic-core-8.0-20180413.030527-325.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/pentaho/reporting/engine/classic-core/8.0-SNAPSHOT/classic-core-8.0-20180413.030527-325-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/pentaho/reporting/engine/classic-core/8.0-SNAPSHOT/classic-core-8.0-20180413.030527-325-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

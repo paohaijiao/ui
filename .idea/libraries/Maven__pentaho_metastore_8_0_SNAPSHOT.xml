@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: pentaho:metastore:8.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/metastore/8.0-SNAPSHOT/metastore-8.0-20180413.030005-282.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/metastore/8.0-SNAPSHOT/metastore-8.0-20180413.030005-282-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/metastore/8.0-SNAPSHOT/metastore-8.0-20180413.030005-282-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

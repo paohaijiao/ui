@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: pentaho:pentaho-xul-swt:8.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-xul-swt/8.0-SNAPSHOT/pentaho-xul-swt-8.0-20180413.030815-2487.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-xul-swt/8.0-SNAPSHOT/pentaho-xul-swt-8.0-20180413.030815-2487-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-xul-swt/8.0-SNAPSHOT/pentaho-xul-swt-8.0-20180413.030815-2487-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

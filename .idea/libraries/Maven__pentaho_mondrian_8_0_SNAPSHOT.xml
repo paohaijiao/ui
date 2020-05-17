@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: pentaho:mondrian:8.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/mondrian/8.0-SNAPSHOT/mondrian-8.0-20180413.031017-309.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/mondrian/8.0-SNAPSHOT/mondrian-8.0-20180413.031017-309-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/mondrian/8.0-SNAPSHOT/mondrian-8.0-20180413.031017-309-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

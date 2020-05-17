@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: pentaho:pentaho-vfs-browser:8.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-vfs-browser/8.0-SNAPSHOT/pentaho-vfs-browser-8.0-20180413.030001-287.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-vfs-browser/8.0-SNAPSHOT/pentaho-vfs-browser-8.0-20180413.030001-287-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-vfs-browser/8.0-SNAPSHOT/pentaho-vfs-browser-8.0-20180413.030001-287-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

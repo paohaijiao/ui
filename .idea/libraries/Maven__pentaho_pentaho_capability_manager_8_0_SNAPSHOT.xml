@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: pentaho:pentaho-capability-manager:8.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-capability-manager/8.0-SNAPSHOT/pentaho-capability-manager-8.0-20180413.025820-298.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-capability-manager/8.0-SNAPSHOT/pentaho-capability-manager-8.0-20180413.025820-298-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-capability-manager/8.0-SNAPSHOT/pentaho-capability-manager-8.0-20180413.025820-298-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

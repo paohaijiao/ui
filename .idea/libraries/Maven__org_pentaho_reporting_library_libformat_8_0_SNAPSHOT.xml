@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.pentaho.reporting.library:libformat:8.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/pentaho/reporting/library/libformat/8.0-SNAPSHOT/libformat-8.0-20180413.030201-326.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/pentaho/reporting/library/libformat/8.0-SNAPSHOT/libformat-8.0-20180413.030201-326-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/pentaho/reporting/library/libformat/8.0-SNAPSHOT/libformat-8.0-20180413.030201-326-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
